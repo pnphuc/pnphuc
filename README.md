@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am a Computer Science Student at VNUHCM - University of Science.
-- 🌱 Skill: Python, C++, OOP, Node-RED, HTML, CSS, SQL
+- 🌱 Skill: Python, C++, OOP, Node-RED, HTML, CSS, SQL, Machine Learning
 - 📫 How to reach me: https://www.linkedin.com/in/pnphuc
 
 
