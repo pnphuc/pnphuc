@@ -3,7 +3,8 @@
 - 📈 I am a [Computer Science](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) Student at [VNUHCM - University of Science](https://www.hcmus.edu.vn/)
 - 💼 Role: Java Software Engineer
 - ❤️ Favorite languages: Python, Java
-- 
+
+
 **React me**  
 <div> 
  <a href="https://www.linkedin.com/in/pnphuc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -11,6 +12,7 @@
   <a href = "mailto:pnphuc.creative@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
 **Languages and Tools:**  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
