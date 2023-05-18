@@ -4,7 +4,7 @@
 - 💼 Role: Java Software Engineer
 - ❤️ Favorite languages: Python, Java
 
-
+##
 **React me**  
 <div> 
  <a href="https://www.linkedin.com/in/pnphuc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -13,6 +13,7 @@
   
 </div>
 
+##
 **Languages and Tools:**  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -26,4 +27,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=pnphuc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnphuc&layout=compact&theme=buefy&hide_border=true)
 
+##
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
