@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnphuc&show_icons=true&theme=vue)
+##
 ![](https://github-readme-stats.vercel.app/api?username=pnphuc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnphuc&layout=compact&theme=buefy&hide_border=true)
 
