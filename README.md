@@ -17,4 +17,5 @@
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnphuc&show_icons=true&theme=vue)
 ![](https://github.com/pnphuc/My-profile/blob/master/generated/overview.svg)
 ![](https://github.com/pnphuc/My-profile/blob/master/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnphuc&layout=compact&theme=buefy&hide_border=true)
 
