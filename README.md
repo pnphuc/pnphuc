@@ -2,7 +2,7 @@
 
 - 📈 I am a [Computer Science](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) Student at [VNUHCM - University of Science](https://www.hcmus.edu.vn/)
 - 💼 Role: Backend Software Engineer
-- ❤️ Favorite languages: Python, Java
+- ❤️ Favorite languages: Python
 
 ##
 **React me**  
@@ -26,6 +26,3 @@
 ##
 ![](https://github-readme-stats.vercel.app/api?username=pnphuc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnphuc&layout=compact&theme=buefy&hide_border=true)
-
-##
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
