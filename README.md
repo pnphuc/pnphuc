@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📈 I am a [Computer Science](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) Student at [VNUHCM - University of Science](https://www.hcmus.edu.vn/)
-- 💼 Role: Backend Engineer
-- ❤️ Favorite languages: Python, NodeJS
+- 💼 Role: Software Engineer
+- ❤️ Favorite languages: Python, Go
 
 ##
 **React me**  
