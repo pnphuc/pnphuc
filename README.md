@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📈 I am a [Computer Science](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) Student at [VNUHCM - University of Science](https://www.hcmus.edu.vn/)
-- 💼 Role: QA Automation at Sysnopsys
+- 💼 Role: QA Automation at [Sysnopsys](https://www.synopsys.com/)
 - ❤️ Favorite languages: Python, Go
 
 ##
